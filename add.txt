@@ -2,3 +2,4 @@ add
 editedbin local 
 third
 remote
+local 
